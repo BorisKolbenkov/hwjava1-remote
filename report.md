@@ -8,7 +8,7 @@
 
 ## Описание процесса тестирования
  В процессе тестирования использовались следующие артефакты:
-* [Входные данные в Задаче №1](https://user-images.githubusercontent.com/85697923/122280261-b1c74980-cef1-11eb-9606-10da590622f4.png)
+* [Входные данные в Задаче №1](https://github.com/netology-code/javaqa-homeworks/tree/master/programming#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1---money-transfer)
 
 
 ## Шаги к воспроизведению
